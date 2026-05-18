@@ -226,7 +226,7 @@ export default function App() {
               </div>
               <h3 className="text-sm font-black uppercase tracking-[0.3em] text-slate-400">Автор проекта</h3>
               <p className="text-3xl md:text-4xl font-black text-slate-900 leading-tight">
-                ШАДМАНКУЛОВОЙ КАМИЛЫ ШУХРАТОВНЫ
+                Шадманкулова Камила Шухратовна
               </p>
               <button
                 onClick={() => setShowAuthor(false)}
